@@ -15,7 +15,7 @@ public class BasicGit {
 	public static void main(String[] args) {
 		BasicGit bg = new BasicGit();
 		
-		String textToPrint = bg.printOneTo(10);
+		String textToPrint = bg.printOneTo(20);
 		System.out.println(textToPrint);
 	}
 }
